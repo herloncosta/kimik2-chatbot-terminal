@@ -1,0 +1,17 @@
+{
+	"name": "kimi-terminal-chatbot",
+	"version": "1.0.0",
+	"description": "Implementando um chatbot usando a API gratuita do OpenRouter",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node --env-file=.env src/index.js",
+		"dev": "node --env-file=.env.local --watch src/example.js"
+	},
+	"keywords": ["ia", "chatbot", "openai", "openrouter", "kimi"],
+	"author": "Herlon Costa",
+	"license": "ISC",
+	"type": "module",
+	"dependencies": {
+		"openai": "^5.16.0"
+	}
+}
