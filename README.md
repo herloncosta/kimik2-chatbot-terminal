@@ -1,4 +1,4 @@
-# Integrando IA Gratuita em seus Projetos Node.js
+# KimiK2 Chatbot
 
 ## Introdução
 
